@@ -7,9 +7,14 @@ This is a web based application developed for life style related based website i
 
   
 
-*Project Link* - 
+*Project Link* - https://orange-rock-0e72e4e00.2.azurestaticapps.net
+*#project demo video link* - 
 
-##project demo video link - 
+## Azure technologies used for project
+
+1. Static Web Apps
+2. 
+3. Health Bot
 
 
 ## Features and Functionalities 😃
@@ -152,7 +157,7 @@ This is a web based application developed for life style related based website i
 
 
 
-### Azure Static Web App -
+### Azure Static Web Apps -
 
 ![Screenshot (8)](https://user-images.githubusercontent.com/118345920/209431040-e14bb891-c996-4161-a882-71035a76120c.png)
 
